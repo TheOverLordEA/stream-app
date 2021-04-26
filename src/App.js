@@ -1,6 +1,6 @@
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route } from "rea";
-import Login from "./Compnents/Login";
+import { BrowserRouter as Router, Switch, Route } from "react";
+import Login from "./components/Login";
 
 function App() {
   return (
